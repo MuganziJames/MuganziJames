@@ -8,7 +8,7 @@
 - 🌱 Learning full-stack development and actively exploring **AI, React, SQL, Supabase**, and **Twilio**.
 - 🔧 Building smart solutions like:
   - 🧠 **Umoja** — storytelling + mental health for Africa 🌍
-  - 📱 Internship-matching mobile app w/ Benedict
+  - 📱 Internship-matching mobile app with a team
   - 🎙️ AI podcast + exam prep tools for schools
 - 💬 Ask me about civic tech, AI-for-good, or starting social ventures as a student!
 
