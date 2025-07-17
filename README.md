@@ -39,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma)
-![Linkedin](in/muganzi-james-b61126275)
+
 ---
 
 > 🧡 *"Code for change. Build for people. Grow with purpose."*  
