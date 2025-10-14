@@ -1,25 +1,39 @@
-<!-- Profile README for James Muganzi -->
-<!-- Calm, minimal, and confidently simple -->
+<!-- ✨ GitHub Profile README for James Muganzi -->
+<!-- Modern, structured, and technically confident -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
+  
+  <!-- Top Stack Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+  <img src="https://img.shields.io/badge/Data%20Science-0078D7?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=6BA7E6&center=true&vCenter=true&width=650&lines=I+am+a+Python+Backend+Developer;and+a+Data+Scientist;Exploring+AI,+Data,+and+Impactful+Code" />
-</p>
+  <!-- Animated Intro -->
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=I+am+a+Python+Backend+Developer;and+a+Data+Scientist;Passionate+about+AI,+Data,+and+Sustainable+Innovation" />
+  
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 👋 Hey, I'm James Muganzi
+</div>
 
-Engineer & developer passionate about merging **technology, sustainability, and community impact**.  
-I enjoy designing solutions that don’t just solve problems — they **empower people**.
+---
 
+## 👋 Hey there, I'm **James Muganzi**
 
-### 🧠 Tech & Tools I Use
+A **Computer Science Enthusiast** driven by curiosity, precision, and purpose.  
+I design intelligent systems that merge **data, AI, and software engineering** to solve real-world problems — especially in sustainability, climate resilience, and community empowerment.
+
+My work focuses on bridging **technical innovation** with **social impact**, transforming concepts into scalable solutions that matter.
+
+---
+
+## 🧠 Core Expertise
+
 ```text
-Languages:  Python, JavaScript, TypeScript, SQL  
-Frameworks: React, Node.js, Express, Django  
-Databases:  Supabase, PostgreSQL, MongoDB  
-Tools:      Render, Twilio, GitHub Actions, OpenAI APIs
+Programming:   Python • JavaScript • TypeScript • SQL  
+Frameworks:    Django • FastAPI • React • Node.js • Express  
+Databases:     Supabase • PostgreSQL • MongoDB  
+AI & Data:     Machine Learning • NLP • Predictive Analytics  
+Tools:         Render • Twilio • GitHub Actions • OpenAI APIs
