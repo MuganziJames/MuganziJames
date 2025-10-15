@@ -39,34 +39,39 @@ DevOps & APIs: Render • Twilio • GitHub Actions • OpenAI APIs
 
 ---
 
-## 🧰 Tech Stack & Tools
+---
 
 <div align="center">
 
-| Category | Tools |
-|-----------|--------|
-| **Backend** | FastAPI • Flask • Django • Node.js |
-| **Frontend** | React • Next.js • Tailwind CSS • HTML5 • CSS3 |
-| **Databases** | Supabase • PostgreSQL • Firebase • MongoDB |
-| **APIs & Integrations** | Twilio • OpenAI • Render • Railway • Google Maps API |
-| **DevOps & Cloud** | GitHub Actions • Docker • Railway • Render |
-| **Languages** | Python • JavaScript • TypeScript • SQL • C • C++ |
+## 🧰 Tech Stack & Tools
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
 
 ---
 
 ## 📞 Contact Me
+
 📱 **Phone:** +254798848862  
 📧 **Email:** muganzijames.ai.dev@gmail.com  
 
 ---
 
-> “Code is not just about solving problems — it’s about imagining better worlds and building the bridges that take us there.”  
-> — *James Muganzi*
+> *“Code is the art of turning ideas into systems that inspire change.”*  
+> — **James Muganzi**
 
 ---
 
 <div align="center">
-  <sub>© 2025 James Muganzi | Built using FastAPI, Supabase, Flask, and React</sub>
+  <sub>© 2025 James Muganzi</sub>
 </div>
