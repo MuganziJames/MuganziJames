@@ -36,3 +36,37 @@ Databases:     Supabase • PostgreSQL • MongoDB
 AI & Data:     Machine Learning • NLP • Predictive Analytics
 DevOps & APIs: Render • Twilio • GitHub Actions • OpenAI APIs
 ```
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+| Category | Tools |
+|-----------|--------|
+| **Backend** | FastAPI • Flask • Django • Node.js |
+| **Frontend** | React • Next.js • Tailwind CSS • HTML5 • CSS3 |
+| **Databases** | Supabase • PostgreSQL • Firebase • MongoDB |
+| **APIs & Integrations** | Twilio • OpenAI • Render • Railway • Google Maps API |
+| **DevOps & Cloud** | GitHub Actions • Docker • Railway • Render |
+| **Languages** | Python • JavaScript • TypeScript • SQL • C • C++ |
+
+</div>
+
+---
+
+## 📞 Contact Me
+📱 **Phone:** +254798848862  
+📧 **Email:** muganzijames.ai.dev@gmail.com  
+
+---
+
+> “Code is not just about solving problems — it’s about imagining better worlds and building the bridges that take us there.”  
+> — *James Muganzi*
+
+---
+
+<div align="center">
+  <sub>© 2025 James Muganzi | Built using FastAPI, Supabase, Flask, and React</sub>
+</div>
