@@ -37,9 +37,7 @@ AI & Data:     Machine Learning • NLP • Predictive Analytics
 DevOps & APIs: Render • Twilio • GitHub Actions • OpenAI APIs
 ```
 
----
 
----
 
 <div align="center">
 
@@ -54,23 +52,19 @@ DevOps & APIs: Render • Twilio • GitHub Actions • OpenAI APIs
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
 
----
 
 ## 📞 Contact Me
 
 📱 **Phone:** +254798848862  
 📧 **Email:** muganzijames.ai.dev@gmail.com  
 
----
 
-> *“Code is the art of turning ideas into systems that inspire change.”*  
+> *“Code is not just about solving problems — it’s about imagining better worlds and building the bridges that take us there.”*  
 > — **James Muganzi**
 
----
 
 <div align="center">
   <sub>© 2025 James Muganzi</sub>
