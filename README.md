@@ -64,10 +64,12 @@ DevOps & APIs: Render • Twilio • GitHub Actions • OpenAI APIs
 📱 **Phone:** +254798848862  
 📧 **Email:** muganzijames.ai.dev@gmail.com  
 
+<br><br>
 
 > *“Code is not just about solving problems — it’s about imagining better worlds and building the bridges that take us there.”*  
 > — **James Muganzi**
 
+<br><br>
 
 <div align="center">
   <sub>© 2025 James Muganzi</sub>
