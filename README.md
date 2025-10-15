@@ -26,6 +26,7 @@ My goal is to turn complex ideas into solutions that are *intelligent, scalable,
 
 > *"Solving problems through logic, data, and creativity."*
 
+<br><br>
 
 ## ⚡ Core Expertise
 
@@ -37,6 +38,7 @@ AI & Data:     Machine Learning • NLP • Predictive Analytics
 DevOps & APIs: Render • Twilio • GitHub Actions • OpenAI APIs
 ```
 
+<br><br>
 
 
 <div align="center">
