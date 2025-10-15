@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-0078D7?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-native-3776AB?style=for-the-badge&logo=react-native&logoColor=white" />
   
   <br><br>
   
